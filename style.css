@@ -6,7 +6,7 @@ text-decoration:none;
 
 }
 .image{
-background-image:url("../Image/library.jpg");
+background-image:url("library.jpg");
 background-position:center;
 background-size:cover;
 position:relative;
